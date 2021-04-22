@@ -23,11 +23,11 @@ Univesidad de Granada
 
 **Slogan** (frase motivadora/inspiradora): ________
 
-**Hashtag**  ___
+**Hashtag**  #Acidopunk
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2021
 
 **Medios** (donde se tiene presencia): 
 
