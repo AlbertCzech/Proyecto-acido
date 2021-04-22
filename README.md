@@ -15,7 +15,7 @@ Univesidad de Granada
 
 **Autor(es)** Alberto Aijón
 
-**Resumen** : _________
+**Resumen** : Narrativa distópica con múltiples elecciones para el consumidor a través de una novela gráfica interactiva (webcomic) y una serie de mini-videojuegos que expande dicha narrativa
 
 **logotipo** :  
 ![Logo acido](https://user-images.githubusercontent.com/82902371/115732922-b4417300-a388-11eb-8afd-8a69d70ab0fd.jpg)
