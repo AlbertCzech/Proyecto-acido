@@ -21,7 +21,7 @@ Univesidad de Granada
 ![Logo acido](https://user-images.githubusercontent.com/82902371/115732922-b4417300-a388-11eb-8afd-8a69d70ab0fd.jpg)
 
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** :
 
 **Hashtag**  #Acidopunk
 
@@ -48,10 +48,10 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   ¿De dónde parte nuestro proyecto? 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
+* De la literatura distópica del S.XX y muchas de sus adaptaciones al cine
+* Podemos destacar las siguientes
 * 
 
 
