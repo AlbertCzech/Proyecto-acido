@@ -9,9 +9,9 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Ácido
 
-**Autor(es)** ______________
+**Autor(es)** Alberto Aijón
 
 **Resumen** : _________
 
