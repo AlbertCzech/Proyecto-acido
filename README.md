@@ -1,4 +1,4 @@
-![Logo acido](https://user-images.githubusercontent.com/82902371/115732879-aab80b00-a388-11eb-91a2-fcdd6df6b250.jpg)
+
 ## (Ácido)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
@@ -16,7 +16,8 @@ Univesidad de Granada
 
 **Resumen** : _________
 
-**logotipo** :  ________![Logo acido](https://user-images.githubusercontent.com/82902371/115732922-b4417300-a388-11eb-8afd-8a69d70ab0fd.jpg)
+**logotipo** :  
+![Logo acido](https://user-images.githubusercontent.com/82902371/115732922-b4417300-a388-11eb-8afd-8a69d70ab0fd.jpg)
 
 
 **Slogan** (frase motivadora/inspiradora): ________
