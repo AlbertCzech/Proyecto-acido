@@ -75,9 +75,12 @@ Actividades realizadas mediante Trello https://trello.com/b/vPdRDc99/proyectomul
 
 
  
+ 
+ 
 
 
 **Necesidad/oportunidad** 
+La ciencia ficción está en auge en diferentes medios, como la literatura, los videojuegos o las series de televisión. La próximidad o el miedo a ese tipo de futuros hace que su consumo se mayor entre los espectadores/lectores/jugadores. Debemos aprovechar ese auge para crear un proyecto que sea novedoso en cuanto a forma, pero no fondo. Aportando elementos interactivos y jugables a un tema que no se sale del canon distópico pero a su vez brinda una nueva historia.
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
