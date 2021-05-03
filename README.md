@@ -82,7 +82,9 @@ Actividades realizadas mediante Trello https://trello.com/b/vPdRDc99/proyectomul
 **Necesidad/oportunidad** 
 La ciencia ficción está en auge en diferentes medios, como la literatura, los videojuegos o las series de televisión. La próximidad o el miedo a ese tipo de futuros hace que su consumo se mayor entre los espectadores/lectores/jugadores. Debemos aprovechar ese auge para crear un proyecto que sea novedoso en cuanto a forma, pero no fondo. Aportando elementos interactivos y jugables a un tema que no se sale del canon distópico pero a su vez brinda una nueva historia.
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** 
+El año pasado realicé mi TFG sobre distopía, adaptaciones y la propia creación de un relato distópico y su posterior adaptación con el guion del un episodio piloto de una posible serie. Desde pequeño he leído historias de ciencia ficción y aventuras, así como he jugado a videojuegos ambientados en ese universo, por lo que ser el creador de una historia de este tipo me apasiona.
+[TFG - Alberto Aijón](https://github.com/AlbertCzech/Proyecto-acido/blob/430d277362015b8efec2a1b91fc52368df5df4b0/Memoria%20TFG_Alberto%20Aij%C3%B3n%20L%C3%B3pez_Sobre%20Nosotros_%20un%20viaje%20de%20distop%C3%ADa%20y%20vuelta.pdf)
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
