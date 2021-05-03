@@ -26,7 +26,7 @@ Univesidad de Granada
 **Hashtag**  #Acidopunk
 
 **Licencia**    
-(https://raw.githubusercontent.com/AlbertCzech/Proyecto-acido/master/licencia.JPG)
+![licencia](https://github.com/AlbertCzech/Proyecto-acido/blob/master/licencia.JPG)
 **Fecha** : 2021
 
 **Medios** (donde se tiene presencia): 
