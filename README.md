@@ -114,6 +114,7 @@ El año pasado realicé mi TFG sobre distopía, adaptaciones y la propia creaci�
 ![Banner 2](https://github.com/AlbertCzech/Proyecto-acido/blob/master/Simulaci%C3%B3n%20El%20Pa%C3%ADs.jpg?raw=true)
 
 **Simulación valla publicitaria**
+
 ![Banner 3](https://github.com/AlbertCzech/Proyecto-acido/blob/master/valla%20publicitaria.jpg?raw=true)
 
 
