@@ -17,13 +17,13 @@ Univesidad de Granada
 
 **Autor(es)** Alberto Aijón
 
-**Resumen** : Narrativa distópica con múltiples elecciones para el consumidor a través de una novela gráfica interactiva (webcomic) y una serie de mini-videojuegos que expande dicha narrativa
+**Resumen** : Narrativa distópica con múltiples elecciones para el consumidor a través de una novela gráfica interactiva (webcomic) y una serie de mini-videojuegos (Rpg's) que expanden dicha narrativa
 
 **logotipo** :  
 ![Logo acido](https://user-images.githubusercontent.com/82902371/115732922-b4417300-a388-11eb-8afd-8a69d70ab0fd.jpg)
 
 
-**Slogan** :
+**Slogan** : No hay lugar dónde esconderse de la lluvia
 
 **Hashtag**  #Acidopunk
 
@@ -36,7 +36,7 @@ Univesidad de Granada
 
 
 *  :octocat: (https://github.com/AlbertCzech/Proyecto-acido) 
-* Web: Proximamente 
+* Web: Proximamente (10 de mayo)
 
 
 
