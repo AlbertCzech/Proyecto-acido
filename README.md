@@ -5,6 +5,8 @@ Presentación en Slides.com
 
 [Ir a la presentación](https://slides.com/albertoaijon/deck)
 
+Proyecto en Ren'Py: Proximamente (10 de mayo)
+
 Master de Nuevos medios interactivos y periodismo multimedia
 Facultad de Comunicación y Documentación
 Univesidad de Granada  
