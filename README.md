@@ -27,14 +27,15 @@ Univesidad de Granada
 
 **Licencia**    
 ![licencia](https://github.com/AlbertCzech/Proyecto-acido/blob/master/licencia.JPG)
+
 **Fecha** : 2021
 
-**Medios** (donde se tiene presencia): 
+**Medios**: 
 
 
 *  :octocat: (https://github.com/AlbertCzech/Proyecto-acido) 
-* Twitter 
-* ... 
+* Web: Proximamente 
+
 
 
 
@@ -46,7 +47,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante Trello https://trello.com/b/vPdRDc99/proyectomultimedia21
 
 **Investigación de campo**   ¿De dónde parte nuestro proyecto? 
 
