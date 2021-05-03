@@ -32,7 +32,7 @@ Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
+*  :octocat: (https://github.com/AlbertCzech/Proyecto-acido) 
 * Twitter 
 * ... 
 
