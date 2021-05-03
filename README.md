@@ -108,7 +108,11 @@ El año pasado realicé mi TFG sobre distopía, adaptaciones y la propia creaci�
 
 * publicidad:
 **Imagen publicitaria reclamo**
-![Banner]
+![Banner](https://github.com/AlbertCzech/Proyecto-acido/blob/master/banner.jpg?raw=true)
+**Simulación Banner en periódico**
+![Banner 2](https://github.com/AlbertCzech/Proyecto-acido/blob/master/banner.jpg?raw=true)
+**Simulación valla publicitaria**
+![Banner 3](https://github.com/AlbertCzech/Proyecto-acido/blob/master/banner.jpg?raw=true)
 
 * ...
 
