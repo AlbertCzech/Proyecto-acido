@@ -62,7 +62,7 @@ Actividades realizadas mediante Trello https://trello.com/b/vPdRDc99/proyectomul
 
 * De los videojuegos
 
-![Influencias videojuegos](https://github.com/AlbertCzech/Proyecto-acido/blob/master/videojuegos.png?raw=true()
+![Influencias videojuegos](https://github.com/AlbertCzech/Proyecto-acido/blob/master/videojuegos.png?raw=true)
 
 * De la música
 
