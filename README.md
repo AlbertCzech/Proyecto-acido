@@ -30,7 +30,7 @@ Univesidad de Granada
 **Licencia**    
 ![licencia](https://github.com/AlbertCzech/Proyecto-acido/blob/master/licencia.JPG)
 
-**Fecha** : 2021
+**Fecha** : 2021 (Fecha de estreno: 10 de mayo)
 
 **Medios**: 
 
