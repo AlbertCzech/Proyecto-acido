@@ -53,12 +53,11 @@ Actividades realizadas mediante Trello https://trello.com/b/vPdRDc99/proyectomul
 
 **Investigación de campo**   ¿De dónde parte nuestro proyecto? 
 
-* De la literatura distópica del S.XX 
 
+* De la literatura distópica del S.XX 
 ![Influencias literatura](https://user-images.githubusercontent.com/82902371/115740268-f077d200-a38e-11eb-98bc-c7563b68e074.png)
 
 * Del Cine
-
 ![Influencias cine](https://github.com/AlbertCzech/Proyecto-acido/blob/master/Pel%C3%ADculas.png?raw=true)
 
 * De los videojuegos
