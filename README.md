@@ -106,7 +106,9 @@ El año pasado realicé mi TFG sobre distopía, adaptaciones y la propia creaci�
 
 * redes sociales (...) 
 
-* publicidad: banner (... ) 
+* publicidad:
+**Imagen publicitaria reclamo**
+![Banner]
 
 * ...
 
