@@ -59,7 +59,7 @@ Actividades realizadas mediante Trello https://trello.com/b/vPdRDc99/proyectomul
 
 * Del Cine
 
-![Influencias cine](https://github.com/AlbertCzech/Proyecto-acido/commit/64ae9b9dc1aed3fc17291569a21b9885128e41cb)
+![Influencias cine](https://github.com/AlbertCzech/Proyecto-acido/blob/master/Pel%C3%ADculas.png?raw=true)
 
 * De los videojuegos
 
