@@ -69,6 +69,7 @@ Actividades realizadas mediante Trello https://trello.com/b/vPdRDc99/proyectomul
 ![Influencias música](https://github.com/AlbertCzech/Proyecto-acido/blob/master/canciones.png?raw=true)
 
 [Escucha aquí "Sierra y Canadá" de Sidonie](https://www.youtube.com/watch?v=7o34ASehN9s)
+
 [Escucha aquí "2502" de Second](https://www.youtube.com/watch?v=0ncVFfs2oGg)
 
 
