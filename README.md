@@ -87,7 +87,8 @@ El año pasado realicé mi TFG sobre distopía, adaptaciones y la propia creaci�
 
 [TFG - Alberto Aijón](https://github.com/AlbertCzech/Proyecto-acido/blob/430d277362015b8efec2a1b91fc52368df5df4b0/Memoria%20TFG_Alberto%20Aij%C3%B3n%20L%C3%B3pez_Sobre%20Nosotros_%20un%20viaje%20de%20distop%C3%ADa%20y%20vuelta.pdf)
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  
+El usuario tipo de nuestro producto es por un lado el consumidor de historias distópicas, de ciencia ficción, pero por otro para los amantes de la gamificación en las historias, o a los jugadores de juegos. Es una aventura jugable, por lo que necesitamos un consumidor activo, porque es un producto interactivo, y no tiene sentido sin dicha interactividad. Es cierto que este aspecto puede también limitar a otros usuarios, que por edad o por poca costumbre con la tecnología no llegue a conocer el producto y prefiera productos clásicos como un libro o una serie.
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
