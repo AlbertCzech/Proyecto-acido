@@ -100,11 +100,11 @@ El año pasado realicé mi TFG sobre distopía, adaptaciones y la propia creaci�
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Actualmente se está desarrollando una breve historia con Ren'Py para conocer el universo, aunque no es la historia completa, ideada para un proyecto mayor, con múltiples protagonistas de las diferentes tribus que existen en el universo creado, así como los diferentes movimientos (causas) de algunos grupos y poder construir una aventura compleja. También se propone una serie de misiones, que saltan de la novela visual a los videojuegos, pensandos con el programa rpg-maker, para crear historias que desarrollan partes que no aparecen en la novela.
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales (...) 
+* redes sociales: Se proponen cuentas en Instagram y Twitter. En Instagram se desarrolla el Arte de la historia, con bocetos, dibujos, etc... así como la publicación de "stories" como gancho para captar usuarios en la aventura y los minijuegos. En Twitter se lanzarán una serie de Hashtags, como #Preparateparalalluvia, unos días antes del lanzamiento, con un mini-juego, para crear cierto hype. Posteriormente se lanza #Acidopunk, para el día del estreno y posterior seguimiento de la historia.
 
 * publicidad:
 **Imagen publicitaria reclamo**
