@@ -121,11 +121,11 @@ Actualmente se está desarrollando una breve historia con Ren'Py para conocer el
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+En el caso de la web se puede hacer un seguimiento del número usuarios que acceden, el tiempo que están, el lugar de procedencia, el dispostivo desde el que acceden, etc. Sería interesante conocer las elecciones que se toman en la historia, para conocer lo que más gusta o no a los usuarios, pero desconozco si esto es posible.
+Con el lanzamiento de los hasgtags propuestos también se puede medir el impacto, por el número de tuits, las menciones, los re-tuits, y luego se puede trabajar con programas que una vez bajados los datos podemos sacar nuestras conclusiones, desde los sentimientos (positivos/negativos) o las palabras que mas usan.
+Con los mini-juegos ocurre lo mismo que la novela, que al estar en una web podemos obtener los mismos datos que en la novela gráfica, también conocer cuales son los juegos que más han gustado, los más jugados, etc.
 
-* Test con usuarios (...) 
-* ... 
-
+Otra posible forma de evaluación es usando un estilo directo, es decir compartiendo la historia entre compañeros, en grupos de whatsapp del Máster y Grado, y conocer su opinión directamente. Otra forma es ofrecer tarjetas con QR (link a la web) en librerías especializadas en ciencia ficción (en Granada hay varias) y tratar de monotorizar los usuarios que llegan desde el QR y poder ver su comportamiento en la web.
 
 
 
