@@ -90,12 +90,11 @@ El año pasado realicé mi TFG sobre distopía, adaptaciones y la propia creaci�
 **Personas/Usuarios**  
 El usuario tipo de nuestro producto es por un lado el consumidor de historias distópicas, de ciencia ficción, pero por otro para los amantes de la gamificación en las historias, o a los jugadores de juegos. Es una aventura jugable, por lo que necesitamos un consumidor activo, porque es un producto interactivo, y no tiene sentido sin dicha interactividad. Es cierto que este aspecto puede también limitar a otros usuarios, que por edad o por poca costumbre con la tecnología no llegue a conocer el producto y prefiera productos clásicos como un libro o una serie.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Estilo de narración**  
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+Tenemos dos tipos de plataformas o medios, y hay que entender como funciona cada uno de ellos.
+En primer lugar tenemos la novela gráfica interactiva. No deja de ser literatura, con un relato, independientemente que esté basada en hipertexto. Obviamente, al ser visual evitamos las descripciones tanto de lugares como de personajes y se le da más peso al diálogo, que será el encargado de hacer avanzar la historia. El "espectador implicado" entra en la historia de lleno, y se convierte no en narrador pero sí en co-narrador, al decidir lo que hacen los protagonista, aunque es cierto que las decisiones no son libres, sino que están planeadas por el creador de la historia y limitadas a lo que se ha desarrollado.
+Por otro lado tenemos los mini-videojuegos rpg, con dos elementos clave: Storytelling (relato) y Quest (la búsqueda). Un Role Playing Game debe de tener una historia más o menos compleja, densa, con gran cantidad de texto y a su vez debe de haber una búsqueda, una misión, un objetivo que alcanzar para el que hará falta explorar el mundo (escenario) propuesto y una serie de elementos antigonistas que intentarán evitar la consecución del objetivo del protagonista. En este caso se desarrollan historias paralelas a la novela gráfica y se aprovecha también para desarrollar historias o misiones que ocurren en la novela. Es decir, nuestra intención es que haya un salto constante entre novela y mini-juegos.
 
 
 
