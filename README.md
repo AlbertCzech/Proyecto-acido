@@ -32,13 +32,13 @@ Univesidad de Granada
 **Licencia**    
 ![licencia](https://github.com/AlbertCzech/Proyecto-acido/blob/master/licencia.JPG)
 
-**Fecha** : 2021 (Fecha de estreno: 10 de mayo)
+**Fecha** : 2021 (Fecha de estreno: 12 de mayo)
 
 **Medios**: 
 
 
 *  :octocat: (https://github.com/AlbertCzech/Proyecto-acido) 
-* Web: Proximamente (10 de mayo)
+* Web: Proximamente (12 de mayo)
 
 
 
@@ -135,39 +135,19 @@ Otra posible forma de evaluación es usando un estilo directo, es decir comparti
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+**Grado de consecución del proyecto:**
+Se ha ejecutado un capítulo piloto en Ren'Py, con el fin de mostrar la intención del proyecto. Lo que se pretende es mostrar el tono de la aventura (mundo distópico) y el tipo, es decir, eligiendo entre varias alternativas
+
+**Problemas identificados**
+Nos encontramos con varios problemas. El inicial es que no conocíamos la herramienta, y requiere de un tiempo hasta encontrar como ejecutarla bien, pero el programa nos da una gran cantidad de posibilidades para el futuro. Y el segundo factor es el tiempo. Se necesita gran cantidad de tiempo para introducir el código, adaptar las imágenes al formato, recortar los personajes en png, etc...
+**Propuestas de mejora**
+Merece la pena dedicar más tiempo, en un momento más adecuado sin el TFM y las prácticas a la vuelta de la esquina. Entre las ideas está la de crear nuestros propios personajes y escenarios, y así no cogerlos de internet. La historia está bien construida, al menos la raíz, y necesita de horas y horas para hacer las diferentes ramificaciones y aprovechar el potencial.
+**Posible interés del proyecto**
+Creo que puede salir alguna colaboración de este proyecto, junto a compañeros que dibujan y les interesan estas historias, por lo que se podría formar un equipo y discutir cómo hacerlo. Le encontramos muchas posibilidades, porque es un género muy agradecido y con un gran Fandom, que admite cómic, relatos, juegos, etc. Podría lanzarse como web y albergar todos estos puntos, y quién sabe si alguien se puede llegar a fijar algún día.
+**Finalizando**
+Ha sido un trabajo interesante, descubriendo nuevas herramientas. Es cierto que casi este tipo de asignaturas merecen un Máster propio, y no solo unas cuantas clases, pero se le ha sabido sacar provecho.
 
 
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
-
-
-
-----
-
-**Referencias y recursos utilizados** :
-
-* [Proceso UX](https://uxmastery.com/resources/process/)
-* [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
 
 
 
