@@ -140,10 +140,13 @@ Se ha ejecutado un capítulo piloto en Ren'Py, con el fin de mostrar la intenci�
 
 **Problemas identificados**
 Nos encontramos con varios problemas. El inicial es que no conocíamos la herramienta, y requiere de un tiempo hasta encontrar como ejecutarla bien, pero el programa nos da una gran cantidad de posibilidades para el futuro. Y el segundo factor es el tiempo. Se necesita gran cantidad de tiempo para introducir el código, adaptar las imágenes al formato, recortar los personajes en png, etc...
+
 **Propuestas de mejora**
 Merece la pena dedicar más tiempo, en un momento más adecuado sin el TFM y las prácticas a la vuelta de la esquina. Entre las ideas está la de crear nuestros propios personajes y escenarios, y así no cogerlos de internet. La historia está bien construida, al menos la raíz, y necesita de horas y horas para hacer las diferentes ramificaciones y aprovechar el potencial.
+
 **Posible interés del proyecto**
 Creo que puede salir alguna colaboración de este proyecto, junto a compañeros que dibujan y les interesan estas historias, por lo que se podría formar un equipo y discutir cómo hacerlo. Le encontramos muchas posibilidades, porque es un género muy agradecido y con un gran Fandom, que admite cómic, relatos, juegos, etc. Podría lanzarse como web y albergar todos estos puntos, y quién sabe si alguien se puede llegar a fijar algún día.
+
 **Finalizando**
 Ha sido un trabajo interesante, descubriendo nuevas herramientas. Es cierto que casi este tipo de asignaturas merecen un Máster propio, y no solo unas cuantas clases, pero se le ha sabido sacar provecho.
 
