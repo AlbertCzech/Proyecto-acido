@@ -5,7 +5,8 @@ Presentación en Slides.com
 
 [Ir a la presentación](https://slides.com/albertoaijon/deck)
 
-[Proyecto en Ren'Py](https://github.com/AlbertCzech/Proyecto-acido/blob/15087e3e00304e8fe8ab14c10cda488ca8fe20c5/Juego%20%C3%81cido.pdf)
+[Proyecto en Ren'Py - PDF informativo](https://github.com/AlbertCzech/Proyecto-acido/blob/15087e3e00304e8fe8ab14c10cda488ca8fe20c5/Juego%20%C3%81cido.pdf)
+[Proyecto en Ren'Py - Juego en rar](https://consigna.ugr.es/f/D5EhT1PPZu2JoP9E/Acido.rar)
 
 Master de Nuevos medios interactivos y periodismo multimedia
 Facultad de Comunicación y Documentación
